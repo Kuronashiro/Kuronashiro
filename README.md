@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1209" height="734" alt="binus-univ-logo" src="[https://github.com/user-attachments/assets/39610853-bea8-4a42-a18c-b6c7efa54f89](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fsocs.binus.ac.id%2F2013%2F02%2F21%2Flogo-binus-socs%2F&ved=0CBUQjRxqGAoTCJCBgpuVwpUDFQAAAAAdAAAAABCGAQ&opi=89978449)">
+  <img src="https://socs.binus.ac.id/wp-content/uploads/2013/02/Logo-SoCS-Black-Blue-640x304.png" alt="BINUS SoCS Logo" width="700">
 </p>
 
 ##                                                Muhammad Irham Rizq  👋
