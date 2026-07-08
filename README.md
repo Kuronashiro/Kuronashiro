@@ -1,9 +1,8 @@
 <p align="center">
-  <img src="https://socs.binus.ac.id/wp-content/uploads/2013/02/Logo-SoCS-Black-Blue-640x304.png" alt="BINUS SoCS Logo" width="700">
+  <img src="./assets/logo-binus.png" alt="binus-univ-logo" width="700">
 </p>
 
-##                                                Muhammad Irham Rizq  👋
-
+## Muhammad Irham Rizq 👋
 <!--
 **Kuronashiro/Kuronashiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
