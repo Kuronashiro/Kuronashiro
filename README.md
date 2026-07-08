@@ -20,12 +20,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kuronashiro&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kuronashiro&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuronashiro&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=Kuronashiro&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuronashiro&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+  <img height="165" src="https://streak-stats.demolab.com?user=Kuronashiro&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 </p>
 <!--
 **Kuronashiro/Kuronashiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
