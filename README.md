@@ -1,6 +1,5 @@
 <p align="center">
   <img src=<img width="1209" height="734" alt="binus-univ-logo" src="https://github.com/user-attachments/assets/44e9cca4-452a-4716-8a1d-7b9f495245ec" />
-> 
 </p>
 
 ##                                                Muhammad Irham Rizq  👋
