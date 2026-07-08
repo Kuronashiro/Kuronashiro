@@ -1,5 +1,6 @@
 <p align="center">
-  <img src=https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fcurriculum.binus.ac.id%2Fgeneral-information-undergraduate-program%2F6%2F&ved=0CBUQjRxqGAoTCPiahvSSwpUDFQAAAAAdAAAAABDGAQ&opi=89978449/>
+  <img src=<img width="1209" height="734" alt="binus-univ-logo" src="https://github.com/user-attachments/assets/39610853-bea8-4a42-a18c-b6c7efa54f89" />
+>
 </p>
 
 ##                                                Muhammad Irham Rizq  👋
