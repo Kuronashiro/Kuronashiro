@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ef086c36-d546-4057-afdb-38c14f02971f" alt="binus-univ-logo" width="500">
+  <img src="./assets/binus-compsci-logo-banner.png" alt="BINUS University School of Computer Science" width="100%">
 </p>
 
 ## Muhammad Irham Rizq 👋
