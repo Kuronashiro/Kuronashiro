@@ -23,12 +23,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kuronashiro&theme=github_dark" alt="GitHub Profile Summary">
+  <a href="https://tokscale.ai/u/Kuronashiro">
+    <img src="https://tokscale.ai/u/Kuronashiro/contrib-3d" alt="Tokscale Stats" width="850">
+  </a>
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kuronashiro&theme=github_dark" alt="Top Languages">
-  <img height="165" src="https://streak-stats.demolab.com?user=Kuronashiro&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kuronashiro&theme=github_dark" alt="Most Used Languages">
+  <img height="180" src="https://streak-stats.demolab.com?user=Kuronashiro&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 </p>
 
 <!--
