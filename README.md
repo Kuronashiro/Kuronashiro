@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="https://tokscale.ai/u/Kuronashiro">
-    <img src="https://tokscale.ai/u/Kuronashiro/contrib-3d" alt="Tokscale Stats" width="850">
+    <img src="https://tokscale.ai/api/embed/Kuronashiro/svg?view=3d&compact=1&graph=1&tokens=full&cost=full" alt="Tokscale Stats" width="850">
   </a>
 </p>
 
@@ -32,7 +32,6 @@
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kuronashiro&theme=github_dark" alt="Most Used Languages">
   <img height="180" src="https://streak-stats.demolab.com?user=Kuronashiro&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 </p>
-
 <!--
 **Kuronashiro/Kuronashiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
