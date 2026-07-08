@@ -1,8 +1,5 @@
-<p align="center">
-  <img src="LINK_HASIL_UPLOAD_GITHUB" alt="BINUS University School of Computer Science" width="100%">
-</p>
+<img width="1600" height="600" alt="BINUS banner" src="https://github.com/user-attachments/assets/9c682e01-95cb-471f-a8cd-277e0ed220ab" />
 
-# Muhammad Irham Rizq 👋
 ## Muhammad Irham Rizq 👋
 <!--
 **Kuronashiro/Kuronashiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
