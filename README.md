@@ -23,12 +23,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kuronashiro&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Stats">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kuronashiro&theme=github_dark" alt="GitHub Profile Summary">
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuronashiro&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Top Languages">
-  <img height="165" src="https://streak-stats.demolab.com?user=Kuronashiro&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Streak">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kuronashiro&theme=github_dark" alt="Top Languages">
+  <img height="165" src="https://streak-stats.demolab.com?user=Kuronashiro&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 </p>
 
 <!--
