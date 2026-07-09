@@ -3,7 +3,6 @@
 </p>
 
 <h1 align="center">Muhammad Irham Rizq 👋</h1>
-
 <p align="center">
   <a href="https://gitlab.com/kuronashiro">
     <img src="https://img.shields.io/badge/GITLAB-FC6D26?style=for-the-badge&amp;logo=gitlab&amp;logoColor=white" alt="GitLab">
