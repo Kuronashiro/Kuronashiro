@@ -59,7 +59,12 @@
 <h3 align="center">Payment & Reliability</h3>
 
 <p align="center">
-  Xendit • Webhooks • Escrow Flow • Transaction Logs • Monitoring • Security
+  <img src="https://img.shields.io/badge/Xendit-1D4ED8?style=for-the-badge&logo=googlepay&logoColor=white" alt="Xendit">
+  <img src="https://img.shields.io/badge/Webhooks-0F172A?style=for-the-badge&logo=webhooks&logoColor=white" alt="Webhooks">
+  <img src="https://img.shields.io/badge/Escrow_Flow-16A34A?style=for-the-badge&logo=shield&logoColor=white" alt="Escrow Flow">
+  <img src="https://img.shields.io/badge/Transaction_Logs-9333EA?style=for-the-badge&logo=datadog&logoColor=white" alt="Transaction Logs">
+  <img src="https://img.shields.io/badge/Monitoring-DC2626?style=for-the-badge&logo=grafana&logoColor=white" alt="Monitoring">
+  <img src="https://img.shields.io/badge/Security-111827?style=for-the-badge&logo=auth0&logoColor=white" alt="Security">
 </p>
 
 ---
