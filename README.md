@@ -4,7 +4,7 @@
 
 <h1 align="center"> Muhammad Irham Rizq </h1>
 <p align="center">
-  <b> Payment & Escrow System | DevOps Developer | Web Developer </b>
+  <b>Backend & DevOps Developer | Payment & Escrow Systems</b>
 </p>
 
 <p align="center">
@@ -49,6 +49,12 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite" />
+
+<h3 align="center">Payment & Reliability</h3>
+
+<p align="center">
+  Xendit • Webhooks • Escrow Flow • Transaction Logs • Monitoring • Security
+</p>
 </p>
 
 ---
