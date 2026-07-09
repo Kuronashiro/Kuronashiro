@@ -5,6 +5,9 @@
 <h1 align="center">Muhammad Irham Rizq 👋</h1>
 
 <p align="center">
+  <a href="https://gitlab.com/kuronashiro">
+    <img src="https://img.shields.io/badge/GITLAB-FC6D26?style=for-the-badge&amp;logo=gitlab&amp;logoColor=white" alt="GitLab">
+  </a>
   <a href="https://www.linkedin.com/in/muhammad-irham-rizq">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn">
   </a>
