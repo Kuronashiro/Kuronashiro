@@ -85,15 +85,13 @@
 
 <h3 align="center">Payment & Reliability</h3>
 
-<h3 align="center">Payment & Reliability</h3>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Xendit-1D4ED8?style=for-the-badge" alt="Xendit">
-  <img src="https://img.shields.io/badge/Webhooks-0F172A?style=for-the-badge" alt="Webhooks">
-  <img src="https://img.shields.io/badge/Escrow_Flow-16A34A?style=for-the-badge" alt="Escrow Flow">
-  <img src="https://img.shields.io/badge/Transaction_Logs-9333EA?style=for-the-badge" alt="Transaction Logs">
-  <img src="https://img.shields.io/badge/Monitoring-DC2626?style=for-the-badge" alt="Monitoring">
-  <img src="https://img.shields.io/badge/Security-111827?style=for-the-badge" alt="Security">
+  <img src="https://img.shields.io/badge/Xendit-1D4ED8?style=for-the-badge&amp;logo=googlepay&amp;logoColor=white" alt="Xendit">
+  <img src="https://img.shields.io/badge/Webhooks-0F172A?style=for-the-badge&amp;logo=webhooks&amp;logoColor=white" alt="Webhooks">
+  <img src="https://img.shields.io/badge/Escrow_Flow-16A34A?style=for-the-badge&amp;logo=trustpilot&amp;logoColor=white" alt="Escrow Flow">
+  <img src="https://img.shields.io/badge/Transaction_Logs-9333EA?style=for-the-badge&amp;logo=logstash&amp;logoColor=white" alt="Transaction Logs">
+  <img src="https://img.shields.io/badge/Monitoring-DC2626?style=for-the-badge&amp;logo=grafana&amp;logoColor=white" alt="Monitoring">
+  <img src="https://img.shields.io/badge/Security-111827?style=for-the-badge&amp;logo=auth0&amp;logoColor=white" alt="Security">
 </p>
 
 <h2 align="center">🛠️ Current Focus</h2>
