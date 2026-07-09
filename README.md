@@ -2,7 +2,7 @@
   <img width="1600" height="600" alt="BINUS banner" src="https://github.com/user-attachments/assets/9c682e01-95cb-471f-a8cd-277e0ed220ab">
 </p>
 
-<h1 align="center">Muhammad Irham Rizq 👋</h1>
+<h1 align="center">👨‍💻 Muhammad Irham Rizq 👨‍💻</h1>
 <p align="center">
   <a href="https://gitlab.com/kuronashiro">
     <img src="https://img.shields.io/badge/GITLAB-FC6D26?style=for-the-badge&amp;logo=gitlab&amp;logoColor=white" alt="GitLab">
@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <b>👨‍💻 Backend & DevOps-focused Developer</b>
+  <b>👨‍💻 Payment & Escrow System | DevOps Developer | Web Developer 👨‍💻</b>
 </p>
 
 <p align="center">
