@@ -5,6 +5,18 @@
 <h1 align="center">Muhammad Irham Rizq 👋</h1>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-irham-rizq">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://instagram.com/irhamrzq">
+    <img src="https://img.shields.io/badge/@IRHAMRZQ-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:Hamrizqyt@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email">
+  </a>
+</p>
+
+<p align="center">
   <b>👨‍💻 Backend & DevOps-focused Developer</b>
 </p>
 
@@ -43,47 +55,33 @@
 
 ---
 
-## 🛠️ Current Focus
-
-- **Backend Engineering:** building APIs, authentication flows, and server-side application logic
-- **DevOps & Deployment:** improving deployment workflow, environment setup, and automation
-- **Full-Stack Projects:** connecting frontend, backend, database, and external services into usable products
-- **System Reliability:** learning how to make applications cleaner, easier to maintain, and easier to ship
-
----
-
-## 📌 Currently Building
-
-- AI-powered web applications with backend integration
-- Internal tools and dashboards for business workflows
-- API services with database, authentication, and deployment setup
-- Projects that combine product thinking with engineering execution
-
----
-
-## 💼 Interests
-
-- Backend Engineering
-- DevOps & Cloud Deployment
-- Automation Tools
-- API Design
-- Database Design
-- Full-Stack Product Development
-
----
-
-<h2 align="center">🤝 Connect With Me</h2>
+<h2 align="center">🛠️ Current Focus</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-irham-rizq">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://instagram.com/irhamrzq">
-    <img src="https://img.shields.io/badge/@IRHAMRZQ-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram">
-  </a>
-  <a href="mailto:Hamrizqyt@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email">
-  </a>
+  <b>Backend Engineering:</b> building APIs, authentication flows, and server-side application logic<br>
+  <b>DevOps & Deployment:</b> improving deployment workflow, environment setup, and automation<br>
+  <b>Full-Stack Projects:</b> connecting frontend, backend, database, and external services into usable products<br>
+  <b>System Reliability:</b> learning how to make applications cleaner, easier to maintain, and easier to ship
+</p>
+
+---
+
+<h2 align="center">📌 Currently Building</h2>
+
+<p align="center">
+  AI-powered web applications with backend integration<br>
+  Internal tools and dashboards for business workflows<br>
+  API services with database, authentication, and deployment setup<br>
+  Projects that combine product thinking with engineering execution
+</p>
+
+---
+
+<h2 align="center">💼 Interests</h2>
+
+<p align="center">
+  Backend Engineering • DevOps & Cloud Deployment • Automation Tools<br>
+  API Design • Database Design • Full-Stack Product Development
 </p>
 
 ---
