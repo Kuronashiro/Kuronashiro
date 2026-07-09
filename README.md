@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  Computer Science student at <b>Bina Nusantara University (BINUS)</b><br>
+  Undergraduate Computer Science student at <b>Bina Nusantara University (BINUS)</b><br>
   Focused on backend systems, deployment workflows, automation, and reliable full-stack applications.
 </p>
 
