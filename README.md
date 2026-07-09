@@ -84,8 +84,6 @@
   Deployment-ready infrastructure for a reliable production application
 </p>
 
----
-
 <h2 align="center">💼 Interests</h2>
 
 <p align="center">
