@@ -15,16 +15,6 @@
 
 ---
 
-## 🚀 About Me
-
-<p align="center">
-  Hi, I'm <b>Irham</b>. I enjoy building software that is not only functional, but also structured, deployable, and maintainable.
-  <br><br>
-  My current focus is around <b>backend development</b>, <b>DevOps workflows</b>, and <b>automation</b>, while still using frontend tools to ship complete applications.
-</p>
-
----
-
 <h2 align="center">⚡ Tech Stack</h2>
 
 <h3 align="center">DevOps & Infrastructure</h3>
