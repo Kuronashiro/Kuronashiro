@@ -15,25 +15,25 @@ Focused on backend systems, deployment workflows, automation, and building relia
 
 ### DevOps & Infrastructure
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,gcp,vercel,nginx,postman" />
 </p>
 
 ### Back End
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,ts,js,python,fastapi,php,laravel" />
 </p>
 
 ### Database & Backend Services
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,prisma,supabase,firebase" />
 </p>
 
 ### Front End
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite" />
 </p>
 
