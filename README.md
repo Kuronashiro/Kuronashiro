@@ -9,7 +9,7 @@
 
 <p align="center">
   Undergraduate Computer Science student at <b>Bina Nusantara University (BINUS)</b><br>
-  Focused on backend systems, deployment workflows, automation, and reliable full-stack applications.
+  Building reliable backend systems, deployment workflows, and payment infrastructure for digital products.
 </p>
 <p align="center">
   <a href="https://gitlab.com/kuronashiro">
@@ -56,10 +56,10 @@
 <h2 align="center">🛠️ Current Focus</h2>
 
 <p align="center">
-  <b>Backend Engineering:</b> building APIs, authentication flows, and server-side application logic<br>
-  <b>DevOps & Deployment:</b> improving deployment workflow, environment setup, and automation<br>
-  <b>Full-Stack Projects:</b> connecting frontend, backend, database, and external services into usable products<br>
-  <b>System Reliability:</b> learning how to make applications cleaner, easier to maintain, and easier to ship
+  <b>Payment Infrastructure:</b> learning payment gateway integration, escrow flow, webhooks, and transaction safety<br>
+  <b>Backend Engineering:</b> building APIs, authentication flows, database design, and business logic<br>
+  <b>DevOps & Deployment:</b> improving deployment workflow, environment setup, monitoring, and automation<br>
+  <b>System Reliability:</b> designing applications that are secure, maintainable, and production-ready
 </p>
 
 ---
@@ -67,12 +67,11 @@
 <h2 align="center">📌 Currently Building</h2>
 
 <p align="center">
-  AI-powered web applications with backend integration<br>
-  Internal tools and dashboards for business workflows<br>
-  API services with database, authentication, and deployment setup<br>
-  Projects that combine product thinking with engineering execution
+  <b>Kuronashiro Hobby</b> — a trusted escrow platform for hobby marketplace transactions<br>
+  Payment flow and transaction management using <b>Xendit</b><br>
+  Backend services for order, payment, webhook, dispute, and settlement workflows<br>
+  Deployment-ready infrastructure for a reliable production application
 </p>
-
 ---
 
 <h2 align="center">💼 Interests</h2>
