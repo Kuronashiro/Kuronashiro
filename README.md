@@ -39,6 +39,9 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white" alt="GitHub Actions">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker">
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&amp;logo=googlecloud&amp;logoColor=white" alt="Google Cloud">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Vercel">
@@ -53,6 +56,9 @@
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&amp;logo=express&amp;logoColor=white" alt="Express">
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&amp;logo=nestjs&amp;logoColor=white" alt="NestJS">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript">
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI">
@@ -67,6 +73,9 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&amp;logo=redis&amp;logoColor=white" alt="Redis">
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&amp;logo=prisma&amp;logoColor=white" alt="Prisma">
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&amp;logo=supabase&amp;logoColor=white" alt="Supabase">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&amp;logo=firebase&amp;logoColor=black" alt="Firebase">
@@ -78,6 +87,9 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=black" alt="React">
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js">
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=white" alt="Tailwind CSS">
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&amp;logo=vite&amp;logoColor=white" alt="Vite">
@@ -89,6 +101,9 @@
   <img src="https://img.shields.io/badge/Xendit-1D4ED8?style=for-the-badge" alt="Xendit">
   <img src="https://img.shields.io/badge/Webhooks-0F172A?style=for-the-badge" alt="Webhooks">
   <img src="https://img.shields.io/badge/Escrow_Flow-16A34A?style=for-the-badge" alt="Escrow Flow">
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Transaction_Logs-9333EA?style=for-the-badge" alt="Transaction Logs">
   <img src="https://img.shields.io/badge/Monitoring-DC2626?style=for-the-badge" alt="Monitoring">
   <img src="https://img.shields.io/badge/Security-111827?style=for-the-badge" alt="Security">
