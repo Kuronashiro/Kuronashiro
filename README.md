@@ -4,6 +4,76 @@
 
 # Muhammad Irham Rizq 👋
 
+## 👨‍💻 Backend & DevOps-focused Developer
+
+Computer Science student at **Bina Nusantara University (BINUS)**  
+Focused on backend systems, deployment workflows, automation, and building reliable full-stack applications.
+
+---
+
+## ⚡ Tech Stack
+
+### DevOps & Infrastructure
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,gcp,vercel,nginx,postman" />
+</p>
+
+### Back End
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,ts,js,python,fastapi,php,laravel" />
+</p>
+
+### Database & Backend Services
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,prisma,supabase,firebase" />
+</p>
+
+### Front End
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite" />
+</p>
+
+---
+
+## 🚀 About Me
+
+Hi, I'm **Irham**. I enjoy building software that is not only functional, but also structured, deployable, and maintainable.
+
+My current focus is around **backend development**, **DevOps workflows**, and **automation**, while still using frontend tools to ship complete applications.
+
+---
+
+## 🛠️ Current Focus
+
+- **Backend Engineering:** building APIs, authentication flows, and server-side application logic
+- **DevOps & Deployment:** improving deployment workflow, environment setup, and automation
+- **Full-Stack Projects:** connecting frontend, backend, database, and external services into usable products
+- **System Reliability:** learning how to make applications cleaner, easier to maintain, and easier to ship
+
+---
+
+## 📌 Currently Building
+
+- AI-powered web applications with backend integration
+- Internal tools and dashboards for business workflows
+- API services with database, authentication, and deployment setup
+- Projects that combine product thinking with engineering execution
+
+---
+
+## 💼 Interests
+
+- Backend Engineering
+- DevOps & Cloud Deployment
+- Automation Tools
+- API Design
+- Database Design
+- Full-Stack Product Development
+
 ## 🤝 Connect With Me
 
 <p align="left">
