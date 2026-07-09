@@ -2,7 +2,8 @@
   <img width="1600" height="600" alt="BINUS banner" src="https://github.com/user-attachments/assets/9c682e01-95cb-471f-a8cd-277e0ed220ab">
 </p>
 
-<h1 align="center"> Muhammad Irham Rizq </h1>
+<h1 align="center">Muhammad Irham Rizq</h1>
+
 <p align="center">
   <b>Backend & DevOps Developer | Payment & Escrow Systems</b>
 </p>
@@ -11,6 +12,7 @@
   Undergraduate Computer Science student at <b>Bina Nusantara University (BINUS)</b><br>
   Building reliable backend systems, deployment workflows, and payment infrastructure for digital products.
 </p>
+
 <p align="center">
   <a href="https://gitlab.com/kuronashiro">
     <img src="https://img.shields.io/badge/GITLAB-FC6D26?style=for-the-badge&amp;logo=gitlab&amp;logoColor=white" alt="GitLab">
@@ -25,6 +27,9 @@
     <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email">
   </a>
 </p>
+
+---
+
 <h2 align="center">⚡ Tech Stack</h2>
 
 <h3 align="center">DevOps & Infrastructure</h3>
@@ -49,12 +54,12 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite" />
+</p>
 
 <h3 align="center">Payment & Reliability</h3>
 
 <p align="center">
   Xendit • Webhooks • Escrow Flow • Transaction Logs • Monitoring • Security
-</p>
 </p>
 
 ---
@@ -62,7 +67,7 @@
 <h2 align="center">🛠️ Current Focus</h2>
 
 <p align="center">
-  <b>Payment Infrastructure:</b> learning payment gateway integration, escrow flow, webhooks, and transaction safety<br>
+  <b>Payment Infrastructure:</b> building payment gateway integration, escrow flow, webhooks, and transaction safety<br>
   <b>Backend Engineering:</b> building APIs, authentication flows, database design, and business logic<br>
   <b>DevOps & Deployment:</b> improving deployment workflow, environment setup, monitoring, and automation<br>
   <b>System Reliability:</b> designing applications that are secure, maintainable, and production-ready
@@ -78,6 +83,7 @@
   Backend services for order, payment, webhook, dispute, and settlement workflows<br>
   Deployment-ready infrastructure for a reliable production application
 </p>
+
 ---
 
 <h2 align="center">💼 Interests</h2>
