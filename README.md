@@ -4,6 +4,14 @@
 
 <h1 align="center"> Muhammad Irham Rizq </h1>
 <p align="center">
+  <b> Payment & Escrow System | DevOps Developer | Web Developer </b>
+</p>
+
+<p align="center">
+  Undergraduate Computer Science student at <b>Bina Nusantara University (BINUS)</b><br>
+  Focused on backend systems, deployment workflows, automation, and reliable full-stack applications.
+</p>
+<p align="center">
   <a href="https://gitlab.com/kuronashiro">
     <img src="https://img.shields.io/badge/GITLAB-FC6D26?style=for-the-badge&amp;logo=gitlab&amp;logoColor=white" alt="GitLab">
   </a>
@@ -17,16 +25,6 @@
     <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email">
   </a>
 </p>
-
-<p align="center">
-  <b>👨‍💻 Payment & Escrow System | DevOps Developer | Web Developer 👨‍💻</b>
-</p>
-
-<p align="center">
-  Undergraduate Computer Science student at <b>Bina Nusantara University (BINUS)</b><br>
-  Focused on backend systems, deployment workflows, automation, and reliable full-stack applications.
-</p>
-
 ---
 
 <h2 align="center">⚡ Tech Stack</h2>
