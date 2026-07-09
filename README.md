@@ -2,48 +2,54 @@
   <img width="1600" height="600" alt="BINUS banner" src="https://github.com/user-attachments/assets/9c682e01-95cb-471f-a8cd-277e0ed220ab">
 </p>
 
-# Muhammad Irham Rizq 👋
-
-## 👨‍💻 Backend & DevOps-focused Developer
-
-Computer Science student at **Bina Nusantara University (BINUS)**  
-Focused on backend systems, deployment workflows, automation, and building reliable full-stack applications.
-
----
-
-## ⚡ Tech Stack
-
-### DevOps & Infrastructure
+<h1 align="center">Muhammad Irham Rizq 👋</h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,gcp,vercel,nginx,postman" />
+  <b>👨‍💻 Backend & DevOps-focused Developer</b>
 </p>
 
-### Back End
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,ts,js,python,fastapi,php,laravel" />
-</p>
-
-### Database & Backend Services
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,prisma,supabase,firebase" />
-</p>
-
-### Front End
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite" />
+  Computer Science student at <b>Bina Nusantara University (BINUS)</b><br>
+  Focused on backend systems, deployment workflows, automation, and reliable full-stack applications.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-Hi, I'm **Irham**. I enjoy building software that is not only functional, but also structured, deployable, and maintainable.
+<p align="center">
+  Hi, I'm <b>Irham</b>. I enjoy building software that is not only functional, but also structured, deployable, and maintainable.
+  <br><br>
+  My current focus is around <b>backend development</b>, <b>DevOps workflows</b>, and <b>automation</b>, while still using frontend tools to ship complete applications.
+</p>
 
-My current focus is around **backend development**, **DevOps workflows**, and **automation**, while still using frontend tools to ship complete applications.
+---
+
+<h2 align="center">⚡ Tech Stack</h2>
+
+<h3 align="center">DevOps & Infrastructure</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,gcp,vercel,nginx,postman" />
+</p>
+
+<h3 align="center">Back End</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,ts,js,python,fastapi,php,laravel" />
+</p>
+
+<h3 align="center">Database & Backend Services</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,prisma,supabase,firebase" />
+</p>
+
+<h3 align="center">Front End</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite" />
+</p>
 
 ---
 
@@ -74,9 +80,11 @@ My current focus is around **backend development**, **DevOps workflows**, and **
 - Database Design
 - Full-Stack Product Development
 
-## 🤝 Connect With Me
+---
 
-<p align="left">
+<h2 align="center">🤝 Connect With Me</h2>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/muhammad-irham-rizq">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn">
   </a>
@@ -90,7 +98,7 @@ My current focus is around **backend development**, **DevOps workflows**, and **
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
   <a href="https://tokscale.ai/u/Kuronashiro">
@@ -102,17 +110,3 @@ My current focus is around **backend development**, **DevOps workflows**, and **
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kuronashiro&theme=github_dark" alt="Most Used Languages">
   <img height="180" src="https://streak-stats.demolab.com?user=Kuronashiro&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 </p>
-<!--
-**Kuronashiro/Kuronashiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
