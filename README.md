@@ -85,6 +85,8 @@
 
 <h3 align="center">Payment & Reliability</h3>
 
+<h3 align="center">Payment & Reliability</h3>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Xendit-1D4ED8?style=for-the-badge" alt="Xendit">
   <img src="https://img.shields.io/badge/Webhooks-0F172A?style=for-the-badge" alt="Webhooks">
